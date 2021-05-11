@@ -6,7 +6,7 @@
 
 ###### In Linux : python chatappLINUX.py
 
-###### know Enter Your IP Address according respective OS: <ip address>
+###### know Enter Your IP Address according respective OS: ip address
 
-###### know Enter Your Friends IP Address: <ip address>
+###### know Enter Your Friends IP Address: ip address
 
